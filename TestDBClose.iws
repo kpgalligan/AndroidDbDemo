@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3080282c-5f81-45d1-bfba-017ddd7af0b8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-ldpi/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDBClose.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestDBClose.ipr" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/default.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/com/example/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proguard.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/DatabaseHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/MyActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/TheApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/DbCacheService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestDBClose.iws" afterPath="$PROJECT_DIR$/TestDBClose.iws" />
     </list>
     <ignored path="TestDBClose.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -86,10 +72,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MyActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/MyActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="1" selection-start="1225" selection-end="1225" vertical-scroll-proportion="0.6136364">
+            <state line="41" column="1" selection-start="1225" selection-end="1225" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DbCacheService.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/example/DbCacheService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="35" selection-start="718" selection-end="718" vertical-scroll-proportion="0.22077923">
               <folding />
             </state>
           </provider>
@@ -143,6 +138,7 @@
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/res/layout/main.xml" />
         <option value="$PROJECT_DIR$/src/com/example/MyActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/example/DbCacheService.java" />
       </list>
     </option>
   </component>
@@ -560,7 +556,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/MyActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="1" selection-start="1225" selection-end="1225" vertical-scroll-proportion="0.6136364">
+        <state line="41" column="1" selection-start="1225" selection-end="1225" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/DbCacheService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="35" selection-start="718" selection-end="718" vertical-scroll-proportion="0.22077923">
           <folding />
         </state>
       </provider>
